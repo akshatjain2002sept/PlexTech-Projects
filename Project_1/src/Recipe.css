@@ -1,0 +1,13 @@
+.recipeContainer {
+    text-align: center;
+}
+
+.recipeContainer .ingredients {
+    display: inline-block;
+    margin: auto;
+}
+
+.recipeContainer .instructions {
+    display: inline-block;
+    margin: auto;
+}
